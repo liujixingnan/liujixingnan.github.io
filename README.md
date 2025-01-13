@@ -1,3 +1,6 @@
+## 上线脚本
+
+```sql
 SET @Begin_Id := 57600098;
 SET @tenant_id := 0;
 
