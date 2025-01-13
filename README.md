@@ -15,3 +15,6 @@ VALUES(@Begin_Id + 1, @tenant_id, 'WorkProcessCheckBatchDict', 0, '工序验收�
 INSERT INTO entity_def_tag_rel (id, def_id, tag_id) VALUES(@Begin_Id, @Begin_Id, 1);
 
 INSERT INTO entity_def_tag_rel (id, def_id, tag_id) VALUES(@Begin_Id + 1, @Begin_Id + 1, 1);
+```
+
+`
